@@ -1,5 +1,4 @@
 # try except finally
-
 try:
     print('10' + 10)
 except IOError:
